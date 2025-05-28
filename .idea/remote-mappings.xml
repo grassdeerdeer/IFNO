@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://lulucao@10.24.82.145:25413/home/lulucao/miniconda3/envs/wzz_denoise_subgraph/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/media/sda2/lulucao/FourierPDE" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://lulucao@10.24.82.145:25413/home/lulucao/miniconda3/envs/wzz_denoise_subgraph/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$/PDEBench-main/pdebench" remote-root="/media/sda2/lulucao" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
